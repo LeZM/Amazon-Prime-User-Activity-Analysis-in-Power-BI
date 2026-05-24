@@ -10,7 +10,7 @@ The goal of this project is to explore content distribution and identify key tre
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Global_View.png)
 
 ---
 
